@@ -8,6 +8,8 @@ import SecondComponent from './components/SecondComponent';
 function App(){ 
   return( 
       <div className='App'> 
+
+      
       <FirstComponent />
       <SecondComponent />
       </div> 
